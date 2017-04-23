@@ -25,7 +25,7 @@ tag:
 * Edit `_config.yml` file.
 * Edit `index.md`.
 * Edit `_data/projects.yaml`
-* Add a logo with a small one to `images` folder. (eg. `logo.png`, `logo-small.png`)
+* Add a logo with a small one to `images` folder. (eg. `logo.png`, `yo_peque.png`)
 * Remove sample posts from `_posts` folder and add yours.
 * Remove/Change sample images from `images` folder.
 * Change repo name to `YourUserName.github.io`    
