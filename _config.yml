@@ -34,7 +34,7 @@ sass:
 twitter:            JuanC_Velandia
 #facebook:           username
 github:             Juankz
-stackoverflow:     username
+#stackoverflow:     username
 #linkedin:          username
 #xing:              username
 #instagram:          username
@@ -52,7 +52,7 @@ stackoverflow:     username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           Juan
+#behance:           Juan
 
 # Gems
 gems:
