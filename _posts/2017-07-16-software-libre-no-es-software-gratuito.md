@@ -4,7 +4,6 @@ title: "Software Libre no es software gratuito"
 categories:
   - Software
 ---
-# Software Libre no es software gratuito
 Una de las razones que más escucho cuando se habla de las ventajas del software libre es el pago de licencias, muchas personas aseguran usar software libre simplemente porque que no tienes que pagar absolutamente nada por usarlo. Pero este es un gran error.
 
 La verdadera ventaja del software libre es el hecho de poder estudiarlo, modificarlo y distribuirlo; no que sea gratis, pues el hecho de que alguien invierta un gran tiempo desarrollando un software implica que hay un costo. El software libre no te obliga a pagar por usarlo, esto lo diferencia del software privativo de pago, pues el último te obliga a pagar, mientras que el primero confía en que vas a contribuir de vuelta al proyecto. Al decir contribuir, no me refiero únicamente a mejorar el código fuente, pues existen muschas otras formas de contribuir a un proyecto de software libre, entre ellas: 
