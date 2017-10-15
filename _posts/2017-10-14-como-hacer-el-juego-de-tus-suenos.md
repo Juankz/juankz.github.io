@@ -19,8 +19,7 @@ tags:
 ### MOTIVACIÓN
 
 Hoy estoy
-reinstalando mi computador de desarrollo, así que no puedo hacer
-mucha programación. Compilar Godot toma cada vez más tiempo, así
+reinstalando mi computador de desarrollo, así que no puedo programar mucho que digamos. Compilar Godot toma cada vez más tiempo, así
 que supongo que una nueva configuración es una forma más de
 acelerar el desarrollo de Godot.
 
@@ -52,7 +51,7 @@ Desde que Godot fue
 lanzado, ví muchos desarrolladores trabajar en proyectos asombrosos
 con él. La fortaleza más grande de Godot es que, gracias a su
 diseño, facilita el hecho de arrojar código que simplemente
-funciona (Y que se escala para a grandes proyectos) sin tener que
+funciona (Y que se escala a grandes proyectos) sin tener que
 preocuparse acerca de la arquitectura del juego. Mucho juegos fueron
 lanzados, pero una gran cantidad fueron abandonados.
 
