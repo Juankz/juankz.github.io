@@ -287,11 +287,14 @@ canvas {
   display: inline-block;
   height: auto;
   background-size: 100%;
-  margin: 0 auto;
+  margin: 100px auto;
   position: relative;
   font: 0/0 verdana;
   color: transparent;
   text-shadow: none;
+  img {
+    border-radius: 100%;
+  }
 }
 
 .main-info,
@@ -404,9 +407,6 @@ canvas {
       display: none;
     }
   }
-  img {
-    border-radius = 100%;
-  }
 }
 
 .about-info {
@@ -457,6 +457,7 @@ canvas {
     img {
       width: 50px;
       height: auto;
+      border-radius: 100%;
     }
     &:after {
       display: none;
@@ -596,7 +597,7 @@ canvas {
     position: relative;
     left: auto;
     bottom: auto;
-    font-size: 80px;
+    font-size: 60px;
   }
   .tags > li {
     background: none;
