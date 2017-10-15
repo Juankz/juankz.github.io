@@ -58,12 +58,12 @@ lanzados, pero una gran cantidad fueron abandonados.
 Intenté contactar a
 varios de los desarrolladores para preguntarles cuales fueron las
 razones y en la mayoría de los casos, estas no eran técnicas, sino
-relacionadas con que el alcance del proyecto era demasiado dificil de
+relacionadas con que el alcance del proyecto era demasiado difícil de
 manejar.
 
-### HACER JUEGOS ES MUY DIVERTIDO, PERO MUY DIFICIL
+### HACER JUEGOS ES MUY DIVERTIDO, PERO MUY DIFÍCIL
 
-Desarrollar juegos _es dificil_, cubre bastantes disciplinas pero no puede tomar prestado
+Desarrollar juegos _es difícil_, cubre bastantes disciplinas pero no puede tomar prestado
 mucho de sus procesos.
 
 Del lado artístico
@@ -109,12 +109,12 @@ escribiendo un videojuego, solo escribe tan rápido y simple como
 puedas. No molestes con diseño, no apliques patrones o
 encapsulamiento solo por hacerlo, hazlo rápido y sucio y solo **hazlo
 funcionar**. Si estás planeado tener código limpio en algún punto,
-tiene que ser porque se ha vuelto muy dificil trabajar con él, de lo
+tiene que ser porque se ha vuelto muy difícil trabajar con él, de lo
 contrario no lo toques.
 
 Una excusa común
 para lo anterior son equipos de trabajo y muchos programadores
-trabajando en un juego. Los programadores líderes requieren código
+trabajando en un juego. Los programadores en jefe requieren código
 limpio y organizado, lo que resulta en un desarrollo muy lento. La
 lógica detras de esto es "Debemos ser capaces de reemplazar
 programadores en cualquier momento, así que el código debe ser
@@ -272,7 +272,7 @@ es una verdadera distribuidora móvil! Aquella dispuesta a invertir dinero
 en tu juego.
 
 Desafortunadamente esta es una pregunta
-muy dificil de reponder positivamente. Para darte una idea, la manera
+muy difícil de reponder positivamente. Para darte una idea, la manera
 más popular de hacer dinero en el entorno móvil es vía
 free-to-play (alias "Compras dentro de la app"). Cualquier
 otra cosa no funciona. Juegos pagos (gratis o con pared de pago) no
@@ -304,7 +304,7 @@ Aquí es donde puedes encontrar
 fácilmente productores para invertir en UA (abreviación de
 "adquisición de usuario", o solo compra de usuarios para
 ti por una parte de %). No es necesario decir que llegar a este punto
-es increiblemente dificil sin suficiente inversión y este tipo de
+es increiblemente difícil sin suficiente inversión y este tipo de
 juegos duran años en desarrollo, y en pérdidas, mientras se ajusta su tasa de conversión
 hasta ser positiva.
 
@@ -314,7 +314,7 @@ no lo hagas excepto si es por diversión y/o aprendizaje.
 
 Expertos en marketing siempre te dirán
 que, contrario al sentido común, cuanto más amplio sea el mercado,
-más dificil es de alcanzar.
+más difícil es de alcanzar.
 
 **Un juego convencional (mainstream):** Estos juegos venden con un montón de inversión en publicidad
 para llegar a sus usuarios (y también cuesta bastante crearlos). Si
@@ -355,7 +355,7 @@ general, ellos entienden el mercado mejor y estarán más capacitados
 para valorar los riesgos de tu título.
 
 **Crowdfounding:** Sitios como
-kickstarter, Indiegogo o Patreon son considerablemente dificiles hoy
+kickstarter, Indiegogo o Patreon son considerablemente difíciles hoy
 en día para obtener fondos (La siguiente pregunta te ayudara en
 esto). Una estrategia común es pedir mucho menos dinero (Y ofrecer
 un juego más pequeño) y luego, si es exitosa, ve con una productora
@@ -469,7 +469,7 @@ funciona.
 No es necesario que sean las primeras
 partes del juego, pueden ser secciones aleatorias (aunque una buena
 escena introductoria puede resultar muy bien, incluso si es más
-dificil de lograr).
+difícil de lograr).
 
 ¿Porque es la tira vertical tan
 importante para obetener inversión? Por las siguientes razones:
@@ -595,7 +595,7 @@ pero la industria se acostumbró a hacerlo.
 
 Mi experiencia con publicaciones es una
 mezcla. Las distribuidoras generalmente apuestan con sus juegos.
-Financian mucho proyectos, pero solo invierten realmente (en
+Financian muchos proyectos, pero solo invierten realmente (en
 promoción) en aquellos a los que les va bien en ventas. Los que no,
 rara vez obtienen algo de dinero y se les deja morir. Esta es la ley
 de la vida.
@@ -615,7 +615,7 @@ Tampoco me malinterpretes, las
 distribuidoras marcan una gran diferencia, incluso si no invierten
 _dinero_ en promoción, usualmente tiene canales muy bien
 lubricados con la prensa y muchas tienen cultos de seguidores (como
-Atlus o Daedalic) que comprarán su juegos. Ellas también conocen
+Atlus o Daedalic) que comprarán sus juegos. Ellas también conocen
 los mercados bastante bien así que incluso si tu juego no se vende,
 no significa que no hicieron nada para promocionarlo.
 
