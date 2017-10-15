@@ -14,7 +14,7 @@ tags:
 
 ---
 
-<img src="https://godotengine.org/storage/app/uploads/public/598/fb6/1bb/598fb61bb576f136583931.png" alt="">
+<img rel="image_src" src="https://godotengine.org/storage/app/uploads/public/598/fb6/1bb/598fb61bb576f136583931.png" alt="">
 
 ### MOTIVACIÓN
 
