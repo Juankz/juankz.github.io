@@ -418,8 +418,8 @@ alto esta etapa.
 
 Tu arte (o sonido) pueden no estar
 finalizados en esta etapa. Tu código también puede estar
-increiblemente desordenado, eso no es problema. Lo que importaes que
-_la experiencia _se sienta asombrosa. Hablando de usabilidad, el
+increiblemente desordenado, eso no es problema. Lo que importa es que
+_la experiencia_ se sienta asombrosa. Hablando de usabilidad, el
 prototipo de sentirse final o cercano a final. Debe expresar tu idea
 tanto como sea posible.
 
@@ -472,7 +472,7 @@ escena introductoria puede resultar muy bien, incluso si es más
 difícil de lograr).
 
 ¿Porque es la tira vertical tan
-importante para obetener inversión? Por las siguientes razones:
+importante para obtener inversión? Por las siguientes razones:
 
 #### 1) REDUCE EL RIESGO PARA EL INVERSIONISTA
 
@@ -652,7 +652,7 @@ extremadamente difícil. Hacer todo el trabajo de promoción puede
 tomar un buen tiempo, incluso si aprendes como hacerlo. Conozco
 algunos pequeños distribuidores que hacen el trabajo a cambio de una
 parte de las ventas (en pagos mensuales). Aunque me siento más
-comodo con los tramposos, solo revisa como se han vendido sus otros
+cómodo con los tramposos, solo revisa como se han vendido sus otros
 juegos publicados. SteamSpy puede ser una buena herramienta.
 
 **PALABRAS FINALES**
